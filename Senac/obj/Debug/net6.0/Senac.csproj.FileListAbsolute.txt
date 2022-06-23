@@ -1,0 +1,12 @@
+C:\Users\ana.stadelhofer\Documents\Dotnet\Password Manager\Login\Senac\bin\Debug\net6.0\Senac.deps.json
+C:\Users\ana.stadelhofer\Documents\Dotnet\Password Manager\Login\Senac\bin\Debug\net6.0\Senac.dll
+C:\Users\ana.stadelhofer\Documents\Dotnet\Password Manager\Login\Senac\bin\Debug\net6.0\Senac.pdb
+C:\Users\ana.stadelhofer\Documents\Dotnet\Password Manager\Login\Senac\obj\Debug\net6.0\Senac.csproj.AssemblyReference.cache
+C:\Users\ana.stadelhofer\Documents\Dotnet\Password Manager\Login\Senac\obj\Debug\net6.0\Senac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.stadelhofer\Documents\Dotnet\Password Manager\Login\Senac\obj\Debug\net6.0\Senac.AssemblyInfoInputs.cache
+C:\Users\ana.stadelhofer\Documents\Dotnet\Password Manager\Login\Senac\obj\Debug\net6.0\Senac.AssemblyInfo.cs
+C:\Users\ana.stadelhofer\Documents\Dotnet\Password Manager\Login\Senac\obj\Debug\net6.0\Senac.csproj.CoreCompileInputs.cache
+C:\Users\ana.stadelhofer\Documents\Dotnet\Password Manager\Login\Senac\obj\Debug\net6.0\Senac.dll
+C:\Users\ana.stadelhofer\Documents\Dotnet\Password Manager\Login\Senac\obj\Debug\net6.0\refint\Senac.dll
+C:\Users\ana.stadelhofer\Documents\Dotnet\Password Manager\Login\Senac\obj\Debug\net6.0\Senac.pdb
+C:\Users\ana.stadelhofer\Documents\Dotnet\Password Manager\Login\Senac\obj\Debug\net6.0\ref\Senac.dll
